@@ -1,0 +1,67 @@
+---
+booktitle: Proceedings of the NIPS 2016 Workshop on Imperfect Decision Makers
+shortname: IDM
+year: '2016'
+volume: 58
+start: 2016-12-09
+end: 2016-12-09
+url: http://proceedings.mlr.press
+conference_number: '4'
+published: 2017-08-14
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: guyIDM16
+month: 0
+cycles: false
+editor:
+- given: Tatiana V.
+  family: Guy
+- given: Miroslav
+  family: Kárný
+- given: David
+  family: Rios-Insua
+- given: David H.
+  family: Wolpert
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the NIPS 2016 Workshop on Imperfect Decision Makers
+    Held in Centre de Convencions Internacional de Barcelona, Barcelona, Spain on 09 December 2016
+
+  Published as Volume 58 by the Proceedings of Machine Learning Research on 14 August 2017.
+
+  Volume Edited by:
+    Tatiana V. Guy
+    Miroslav Kárný
+    David Rios-Insua
+    David H. Wolpert
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: 09 Dec
+baseurl: "/v58"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v58
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: 'Imperfect Decision Makers: Admitting Real-World Rationality'
+  url: 
+  location: Centre de Convencions Internacional de Barcelona, Barcelona, Spain
+  dates:
+  - 2016-12-09
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from /Users/neil/mlresearch/v58/./guy16.bib
