@@ -6,7 +6,7 @@ year: '2016'
 volume: 58
 start: 2016-12-09
 end: 2016-12-09
-url: http://proceedings.mlr.press
+url: https://proceedings.mlr.press
 author:
   name: PMLR
 conference_number: '4'
